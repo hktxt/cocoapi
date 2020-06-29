@@ -1,6 +1,6 @@
 #### COCO API for Windows. fork and modified from: https://github.com/cocodataset/cocoapi
 
-git clone https://github.com/hktxt/cocoapi.git
+'git clone https://github.com/hktxt/cocoapi.git'
 cd cocoapi/PythonAPI
 python setup.py build_ext install
 
